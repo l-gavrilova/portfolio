@@ -1,7 +1,6 @@
 # Рынок заведений общественного питания Москвы
 
-[html](https://github.com/.md)    [ipynb](https://github.com/.ipynb)
-
+[html](https://github.com/l-gavrilova/Projects/blob/main/New_coffee_house/coffee_house.html)   [ipynb](https://github.com/l-gavrilova/Projects/blob/main/New_coffee_house/coffee_house.ipynb)
 ## Цель проекта
 
 Исследовать рынок общественного питания Москвы.  
