@@ -1,6 +1,7 @@
 # Рынок заведений общественного питания Москвы
 
-[html](https://nbviewer.org/github/l-gavrilova/Projects/blob/main/New_coffee_house/coffee_house.ipynb)  [ipynb](https://github.com/l-gavrilova/Projects/blob/main/New_coffee_house/coffee_house.ipynb)
+[nbviewer](https://nbviewer.org/github/l-gavrilova/Projects/blob/main/New_coffee_house/coffee_house.ipynb)
+
 ## Цель проекта
 
 Исследовать рынок общественного питания Москвы.  
@@ -13,7 +14,7 @@
 ## Использован python и библиотеки:
 
 - **pandas**
-- **plotly.express**
+- **plotly**
 - **json**
 - **folium**
 
