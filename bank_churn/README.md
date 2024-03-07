@@ -1,6 +1,6 @@
 # Анализ оттока клиентов банка
 
-[nbviewer](https://nbviewer.org/github/l-gavrilova/Projects/blob/main/New_coffee_house/coffee_house.ipynb)
+[nbviewer](https://nbviewer.org/github/l-gavrilova/Projects/blob/main/bank_churn/bank_churn.ipynb)
 
 ## Цель проекта
 
