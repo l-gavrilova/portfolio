@@ -3,7 +3,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         | Статус проекта       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- |
-| 1.   | [Госпитализация](https://github.com/l-gavrilova/portfolio/tree/main/my%20projects/Hospital) | Исследование факторов, влияющих на количество дней до госпитализации пациентов медицинского центра. | pandas, ydata_profiling, missingno, requests, sqlalchemy, plotly, json, matplotlib, scipy, phik | В работе       |
+| 1.   | [Госпитализация](https://github.com/l-gavrilova/portfolio/tree/main/my%20projects/Hospital) | Исследование факторов, влияющих на количество дней до госпитализации пациентов медицинского центра. | pandas, ydata_profiling, missingno, requests, sqlalchemy, plotly, json, matplotlib, scipy, phik | Завершен       |
 
 
 
